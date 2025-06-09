@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Wei Liu (刘 伟) [Homepage](https://jugechengzi.github.io/WeiLiu.github.io/)
+- 👋 Hi, I’m Wei Liu (刘 伟) [Homepage](https://weiliu876.github.io/)
 - 👀 I’m interested in XAI.
 - 🌱 I’m now a Postdoc in HUST, China.
 <!---
